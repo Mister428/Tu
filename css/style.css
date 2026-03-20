@@ -1,0 +1,17 @@
+/* style.css */
+:root {
+  --bg:#05070b;
+  --panel:rgba(8,12,18,.78);
+  --panel-2:rgba(12,17,26,.92);
+  --text:#e8f7ff;
+  --muted:#8fb7c9;
+  --accent:#00f5ff;
+  --accent-2:#00ff85;
+  --warn:#ffd166;
+  --danger:#ff5c7a;
+  --shadow:0 0 28px rgba(0,245,255,.22);
+  --border:1px solid rgba(0,245,255,.18);
+  --radius:22px;
+}
+
+/* ... copie ici tout le CSS que tu as fourni ... */
